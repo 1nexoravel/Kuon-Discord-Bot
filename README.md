@@ -1,0 +1,2 @@
+# Kuon
+Tradutor de Legendas
