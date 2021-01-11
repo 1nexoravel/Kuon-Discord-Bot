@@ -14,7 +14,7 @@
 - GoogleDocsAPI
 
 
-###Principais Comandos
+### Principais Comandos
                     
 Comando  |  O que faz | Entrada | Saída | Outro 
 ------------- | ------------- |--- |---| ----
@@ -26,11 +26,11 @@ Comando  |  O que faz | Entrada | Saída | Outro
 `>rsf` | remove sufixos '-chan', '-kun' | Inex-kun, inex-senpai | Inex, inex |
 `>tt` | Traduz texto ou tabelas | >2000 caracteres |.txt |WIP |
 
-###Convite Discord
+### Convite Discord
 
 [Convidar Kuon p/ Discord](https://discord.com/api/oauth2/authorize?client_id=745801652103020544&permissions=0&scope=bot "Kuon")
 
-###Onde reportar erros, dar ideias?
+### Onde reportar erros, dar ideias?
 Este bot ainda está em fase alfa, então não fique chateado se nada funcionar.
 [Neste discord](https://discord.gg/QepxK7D) ou direto com o abençoado: inex#9779
 
