@@ -22,9 +22,9 @@ Comando  |  O que faz | Entrada | Saída | Outro
 `>ta` | `>t` + matém a legenda em inglês | Hello World!  | Olá mundo!{Hello World!} | types bugam 
 `>te` | `>t` + Permite escolher os idiomas de entrada e saída |||
 `>r` | Corrige vários erros como ôo, êe, éia, óia, etc. | Vôo, Dêem, Idéia, Cara ?!, Oi ...? | Voo, Deem, Ideia. Cara? Oi? |
-`>txt` | converte a legenda para .txt |||
+`>txt` | converte a legenda para .txt |.ass ou .srt |.txt|
 `>rsf` | remove sufixos '-chan', '-kun' | Inex-kun, inex-senpai | Inex, inex |
-`>tt` | Traduz texto ou tabelas | >2000 caracteres ||WIP
+`>tt` | Traduz texto ou tabelas | >2000 caracteres |.txt |WIP |
 
 ###Convite Discord
 
