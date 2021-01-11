@@ -16,8 +16,8 @@
 
 ###Principais Comandos
                     
-Comando  |  O que faz | Entrada | Saída | Outro
-------------- | -------------
+Comando  |  O que faz | Entrada | Saída | Outro 
+------------- | -------------|--- | --- |
 >t  | Traduz a legenda a partir do inglês | Hello World! | Olá mundo! | tradução de types entre {}
 >ta | >t + matém a legenda em inglês | Hello World!  | Olá mundo!{Hello World!} | types bugam 
 >te | >t + Permite escolher os idiomas de entrada e saída |||
