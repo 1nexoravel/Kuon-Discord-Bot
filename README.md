@@ -1,25 +1,31 @@
 
+### To do
+- Corrigir >te
+- Imnplementar >ocr OCR (Reconhecimento ótico de caracteres)
+- Esperando googletrans se resolver
+
 
 ### Recursos
 
 - Automação de tradução
-- Suporte a .ASS e .SRT;
-- Saída .ASS apenas;
+- Legendas suportadas .ASS e .SRT;
+- Legenda de saída .ASS;
 - Padrão Português Brasileiro;
 
 ### Algumas Bibliotecas Usadas
 - [Ass2](https://github.com/ewwink/python-srt2ass)
 - [Discord.py](https://github.com/Rapptz/discord.py)
-- [GoogleTrans](https://github.com/ssut/py-googletrans)
+- [GoogleTrans](https://github.com/ssut/py-googletrans) OBSOLETO
 - GoogleDocsAPI
+- GoogleTranslateAPI
 
 
-### Principais Comandos
+### Comandos Públicos
                     
 Comando  |  O que faz | Entrada | Saída | Outro 
 ------------- | ------------- |--- |---| ----
 `>t` | Traduz a legenda a partir do inglês | Hello World! | Olá mundo! | tradução de types entre {}
-`>ta` | `>t` + matém a legenda em inglês | Hello World!  | Olá mundo!{Hello World!} | types bugam 
+`>ta` | `>t` + matém a legenda em inglês na coluna "efeito" do aegisub | Hello World!  | Olá mundo! | 
 `>te` | `>t` + Permite escolher os idiomas de entrada e saída |||
 `>r` | Corrige vários erros como ôo, êe, éia, óia, etc. | Vôo, Dêem, Idéia, Cara ?!, Oi ...? | Voo, Deem, Ideia. Cara? Oi? |
 `>txt` | converte a legenda para .txt |.ass ou .srt |.txt|
