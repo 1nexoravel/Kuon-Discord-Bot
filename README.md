@@ -25,7 +25,7 @@
 Comando  |  O que faz | Entrada | Saída | Outro 
 ------------- | ------------- |--- |---| ----
 `>t` | Traduz a legenda a partir do inglês | Hello World! | Olá mundo! | tradução de types entre {}
-`>ta` | `>t` + matém a legenda em inglês na coluna "efeito" do aegisub | Hello World!  | Olá mundo! | 
+`>ta` | `>t` + matém a legenda em inglês na coluna "efeito" do aegisub | Hello World!  | `Hello World!|Olá mundo!` | 
 `>te` | `>t` + Permite escolher os idiomas de entrada e saída |||
 `>r` | Corrige vários erros como ôo, êe, éia, óia, etc. | Vôo, Dêem, Idéia, Cara ?!, Oi ...? | Voo, Deem, Ideia. Cara? Oi? |
 `>txt` | converte a legenda para .txt |.ass ou .srt |.txt|
