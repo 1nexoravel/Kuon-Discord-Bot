@@ -1,19 +1,22 @@
 
 ### To do
+- Corrigir >t com } único -> \pos(x,x) etc;
 - Corrigir >te;
-- Imnplementar >ocr OCR (Reconhecimento ótico de caracteres) <- Não é possível sem GPU ou CPU dedicado;
-- Esperando a biblioteca googletrans se resolver; e
-- >txt no privado.
+- Implementar >ocr OCR (Reconhecimento ótico de caracteres) <- Não é possível sem GPU ou CPU dedicado;
+- Esperando a biblioteca googletrans se resolver; 
+- Como usar; e
+- NMT melhorado;
 
 ### Recursos
 
 - Automação de tradução;
-- Legendas suportadas .ASS e .SRT;
+- Automção de revisão;
+- Legendas de entradas .ASS e .SRT;
 - Legenda de saída .ASS;
 - Padrão Português Brasileiro;
 
 ### Algumas Bibliotecas Usadas
-- [Ass2](https://github.com/ewwink/python-srt2ass)
+- [srt2ass](https://github.com/ewwink/python-srt2ass)
 - [Discord.py](https://github.com/Rapptz/discord.py)
 - [GoogleTrans](https://github.com/ssut/py-googletrans) OBSOLETO
 - GoogleDocsAPI
@@ -31,6 +34,8 @@ Comando  |  O que faz | Entrada | Saída | Outro
 `>txt` | converte a legenda para .txt |.ass ou .srt |.txt|
 `>rsf` | remove sufixos '-chan', '-kun' | Inex-kun, inex-senpai | Inex, inex |
 `>tt` | Traduz texto ou tabelas | >2000 caracteres |.txt |WIP |
+
+### Como usar
 
 ### Convite Discord
 
